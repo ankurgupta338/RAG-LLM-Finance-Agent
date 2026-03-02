@@ -7,3 +7,6 @@ pip install -e .
 
 ### Which LLM Model to use?
 #### Using locally installed Ollama
+
+
+Reranker - https://ollama.com/qllama/bge-reranker-v2-m3

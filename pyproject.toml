@@ -26,7 +26,15 @@ dependencies = [
     "python-dotenv>=1.0.0",
     "pydantic>=1.10.5",
     "pandas",
-    "numpy"
+    "numpy",
+    "langchain-community",
+    "pypdf",
+    "langchain-text-splitters",
+    "langchain_ollama",
+    "langchain-pinecone",
+    "pinecone",
+    "cohere",
+    "langchain_promts"
 ]
 
 [project.optional-dependencies]

@@ -1,0 +1,102 @@
+Question ID- 1: What was Apples total revenue for the fiscal year ended September 28, 2024?
+Answer: According to the provided financial documents, Apple's total net sales (revenue) for the fiscal year ended September 28, 2024 is $391,035. This information can be found in the "CONSOLIDATED STATEMENTS OF OPERATIONS" document, specifically on page 31.0.
+
+["Apple Inc.", "None", "31.0"]
+--------------------------------------------------
+Question ID- 2: How many shares of common stock were issued and outstanding as of October 18, 2024?
+Answer: According to the context, ["None", "None", "1.0"] states: "15,115,823,000 shares of common stock were issued and outstanding as of October 18, 2024."
+--------------------------------------------------
+Question ID- 3: What is the total amount of term debt (current + non-current) reported by Apple as of September 28, 2024?
+Answer: According to the provided context:
+
+Source: ["None", "None", "33.0"]
+Content:
+Term debt  10,912  9,822 
+Non-current liabilities:
+Term debt  85,750  95,281 
+
+The total amount of term debt (current + non-current) reported by Apple as of September 28, 2024 is:
+
+10,912 (current) + 85,750 (non-current) = 96,662
+
+Source: ["None", "None", "45.0"]
+Content:
+Total term debt principal $ 97,341 
+
+Note that the total term debt principal reported in the "Notes to Consolidated Financial Statements" is slightly higher than the sum of current and non-current term debt reported earlier. This discrepancy may be due to rounding or other accounting adjustments.
+
+Therefore, the answer is: 96,662 (based on the provided context) or 97,341 (based on the "Notes to Consolidated Financial Statements").
+--------------------------------------------------
+Question ID- 4: On what date was Apples 10-K report for 2024 signed and filed with the SEC?
+Answer: According to the provided context, Apple's 10-K report for 2024 was signed on November 1, 2024. However, it is not explicitly stated in the documents whether this report was filed with the SEC on the same date or a later date.
+
+["None", "None", "59.0"] - Signature of Luca Maestri
+["None", "None", "117.0"] - Certification by Luca Maestri
+--------------------------------------------------
+Question ID- 5: Does Apple have any unresolved staff comments from the SEC as of this filing? How do you know?
+Answer: Not specified in the document.
+
+The provided documents only mention "Unresolved Staff Comments" under Item 1B. Unresolved Staff Comments on page 17, but it does not specify whether there are any unresolved staff comments for Apple as of this filing.
+--------------------------------------------------
+Question ID- 6: What was Teslas total revenue for the year ended December 31, 2023?
+Answer: According to the provided financial documents, Tesla's total revenue for the year ended December 31, 2023 is:
+
+96,773 million (Source: ["None", "None", "50.0"], Content: Consolidated Statements of Operations)
+--------------------------------------------------
+Question ID- 7: What percentage of Teslas total revenue in 2023 came from Automotive Sales (excluding Leasing)?
+Answer: According to the provided documents, we can find the answer as follows:
+
+Total revenues in 2023: ["Tesla, Inc.", "Consolidated Statements of Operations", "50.0"] - $96,773 million
+
+Automotive sales revenue in 2023 (excluding leasing): ["Source: None", "None", "38.0"] - $78,509 million
+
+To find the percentage, we can divide the automotive sales revenue by total revenues and multiply by 100:
+
+($78,509 million ÷ $96,773 million) x 100 = 81%
+
+So, approximately 81% of Tesla's total revenue in 2023 came from Automotive Sales (excluding Leasing).
+--------------------------------------------------
+Question ID- 8: What is the primary reason Tesla states for being highly dependent on Elon Musk?
+Answer: According to the provided context, the primary reason Tesla states for being highly dependent on Elon Musk is not explicitly stated. However, it can be inferred that Tesla is highly dependent on Elon Musk because he spends significant time with Tesla and is highly active in its management, as mentioned in ["None", "None", "21.0"].
+--------------------------------------------------
+Question ID- 9: What types of vehicles does Tesla currently produce and deliver?
+Answer: According to the provided context:
+
+Source: ["None", "None", "4.0"]
+Content:
+services	and	sales	of	solar	energy	systems	incentives.
+Our	Products	and	Services
+Automotive
+We	currently	manufacture	five	different	consumer	vehicles	–	the	Model	3,	Y,	S,	X	and	Cybertruck.
+
+Source: ["None", "None", "33.0"]
+Content:
+electric	vehicles,	solar	energy	generation	systems	and	energy	storage	products.
+In	2023,	we	produced	1,845,985	consumer	vehicles	and	delivered	1,808,581	consumer	vehicles.
+
+Tesla currently produces and delivers the following types of vehicles:
+
+* Model 3
+* Y (compact sport utility vehicle)
+* S (four-door full-size sedan)
+* X (mid-size SUV with seating for up to seven adults)
+* Cybertruck (full-size electric pickup truck)
+
+Note: The answer is based on the provided context, which includes information about Tesla's products and services.
+--------------------------------------------------
+Question ID- 10: What is the purpose of Teslas ’lease pass-through fund arrangements’?
+Answer: According to the provided context in Source: ["None", "None", "81.0"], the purpose of Tesla's lease pass-through fund arrangements is:
+
+"Under these arrangements, our wholly owned subsidiaries finance the cost of solar energy systems with investors through arrangements contractually structured as master leases for an initial term ranging between 10 and 25 years."
+
+So, the purpose of Teslas' lease pass-through fund arrangements is to finance the cost of solar energy systems with investors.
+--------------------------------------------------
+Question ID- 11: What is Teslas stock price forecast for 2025?
+Answer: Not specified in the document.
+--------------------------------------------------
+Question ID- 12: Who is the CFO of Apple as of 2025?
+Answer: Not specified in the document.
+--------------------------------------------------
+Question ID- 13: What color is Teslas headquarters painted?
+Answer: Not specified in the document.
+--------------------------------------------------
