@@ -5,6 +5,10 @@ conda activate finance_agent
 pip install -e .
 ```
 
+### Notebook Link Hosted on Kaggle
+https://www.kaggle.com/code/ankurgp/rag-pipeline
+
+
 ### Which LLM Model to use?
 #### Using locally installed Ollama
 
